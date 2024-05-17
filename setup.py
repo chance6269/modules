@@ -13,7 +13,7 @@ version = '1.0'
 author = 'Park Juchan'
 author_email = 'pjc6269@gmail.com'
 description = 'Automatically finds font paths using os.getlogin() and fm.fontManager'
-url = 'https://github.com/chance6269/add_font'  # Replace with your project URL
+url = 'https://github.com/chance6269/modules'  # Replace with your project URL
 license = 'MIT'
 
 # Define dependencies
